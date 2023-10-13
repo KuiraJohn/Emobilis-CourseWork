@@ -22,7 +22,7 @@ body {
 }
 
 .image img {
-    width: 100%; /* Adjust the image width as needed */
+    width: 80%; /* Adjust the image width as needed */
     height: auto;
     border: 1px solid #ccc; /* Add a border to the images if desired */
     border-radius: 5px;
